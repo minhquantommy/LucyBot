@@ -1,2 +1,2 @@
 # LucyBot
-A  Utilities bot for Circus SMP
+Join-to-create, ...
